@@ -1,0 +1,6 @@
+ui/node_modules
+database/data
+data
+backend/code/__pycache__
+backend/code/.ipynb_checkpoints
+database-data
