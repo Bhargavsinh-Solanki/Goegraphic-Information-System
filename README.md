@@ -1,7 +1,12 @@
-﻿# gis_repo_ui
-for ui run without docker
+﻿# Geographic Information Systems
+For ui run without docker
 
-get into the directory 
+Get into the specific directory 
     npm i
     npm start
-"# GIS" 
+
+ ```docker-compose up``` for the docker file.
+
+Check for the csv for the data in database.
+
+ 
